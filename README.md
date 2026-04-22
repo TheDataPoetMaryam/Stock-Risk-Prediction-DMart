@@ -128,4 +128,5 @@ File: `report.pdf`
 Maryam Shaikh
 
 MSc Applied Statistics
+
 Interested in Data Science, Statistical Modeling, and Financial Analytics

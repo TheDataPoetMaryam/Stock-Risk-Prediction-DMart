@@ -126,5 +126,6 @@ File: `report.pdf`
 ## 👩‍💻 Author
 
 Maryam Shaikh
+
 MSc Applied Statistics
 Interested in Data Science, Statistical Modeling, and Financial Analytics

@@ -108,7 +108,7 @@ A detailed academic report is included covering:
 - statistical modeling
 - theoretical background
 
-File: `report.pdf`
+File: `REPORT ON DMART.pdf`
 ---
 
 ## 🛠️ Tech Stack
